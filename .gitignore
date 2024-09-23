@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+client/node_modules
+services/comment/node_modules
+services/post/node_modules
