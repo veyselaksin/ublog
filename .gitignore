@@ -3,3 +3,5 @@
 client/node_modules
 services/comment/node_modules
 services/post/node_modules
+event-bus/node_modules
+services/query/node_modules
